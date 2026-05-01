@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://mitosislabs.ai/mitosis-app-icon.svg" width="96" alt="Mitosis Labs" />
+
 # Mitosis Labs
 
 **No single model can be AGI. A colony will.**
